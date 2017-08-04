@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_7507371da71460eb884338bb6c0057185e305157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_d070e498127add1a9ec2caac8bd2a99e3446be20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d070e498127add1a9ec2caac8bd2a99e3446be20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfd2edb6797e407077747604b086c348babbb700">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\instant-run_8f31ec84da930a16a3a77c6357ffe0f3531e5e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_311e8ecee89ee2b921ed0f9cbaf8c7d7d63d3319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_7507371da71460eb884338bb6c0057185e305157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_f996e07bd18ea39e8e7f119ea2152eca566f6fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f996e07bd18ea39e8e7f119ea2152eca566f6fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_c73d63190a78f98fea2872d13476a914d043827e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_792794747c1b2bd20ad1a0f1c024a3b268eec22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_4d65f3fd93d66e7745460c1e34197291dbd9ed85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\libs\PhotoUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\PhotoUtil_2184e89f0f37702760845bf909c42fb1da84f39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_4d65f3fd93d66e7745460c1e34197291dbd9ed85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_e37e28410b0cc223cd5464962c8e106670894276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_792794747c1b2bd20ad1a0f1c024a3b268eec22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ed519cb642cfc72db2f85edfdf89e74576e8aba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_ed519cb642cfc72db2f85edfdf89e74576e8aba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_e37e28410b0cc223cd5464962c8e106670894276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a545dd542bf68eadd362a8979be2a54998aaaf7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_e3a3d6ebeac5ff82e376c71deea6396c523bc3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_328e14670c3de324f8c630e97ffe065bb0358944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c73d63190a78f98fea2872d13476a914d043827e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\libs\PhotoUtil.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\PhotoUtil_2184e89f0f37702760845bf909c42fb1da84f39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_24282e7ea5cddce7c2c73969f3744a66a7826aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a545dd542bf68eadd362a8979be2a54998aaaf7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_e3a3d6ebeac5ff82e376c71deea6396c523bc3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\GenAsync.1.2_dbbe3763d69d94d190a5004ec3ccd57dd903c5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_54d1e5a47709ac2c29c3f16f24504c4ee058a4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_328e14670c3de324f8c630e97ffe065bb0358944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a3df35b91f98aea129558a8972bf7fabdeb594a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_311e8ecee89ee2b921ed0f9cbaf8c7d7d63d3319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_24282e7ea5cddce7c2c73969f3744a66a7826aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a3df35b91f98aea129558a8972bf7fabdeb594a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\GenAsync.1.2_dbbe3763d69d94d190a5004ec3ccd57dd903c5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cfd55efff823bf98fbed5933932c5e634f55d7c">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6d53faf4bdae622b4ca88cc37a549ac30700a185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CO227\ServerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\CO227\ServerTest\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_54d1e5a47709ac2c29c3f16f24504c4ee058a4ba.jar" />
+    </item>
+
+</items>

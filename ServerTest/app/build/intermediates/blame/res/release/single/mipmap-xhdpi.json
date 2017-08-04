@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\CO227\\ServerTest\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon.png",
+        "source": "D:\\CO227\\ServerTest\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\CO227\\ServerTest\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\CO227\\ServerTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

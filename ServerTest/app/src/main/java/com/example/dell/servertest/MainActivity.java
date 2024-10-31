@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
                     cameraPhoto.addToGallery();
 
                 } catch (IOException e) {
-                    Toast.makeText(getApplicationContext(), "Something Wrong While Taking Photos", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Something Wrong While Taking Photos" + e.getMessage(), Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -181,7 +181,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 if (selectedPhoto.equals("") || selectedPhoto == null) {
-                    Toast.makeText(getApplicationContext(), "No Image Selected.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "No Image Selected." + e.getMessage(), Toast.LENGTH_SHORT).show();
                     return;
                 }
 
